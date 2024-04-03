@@ -61,5 +61,5 @@ You've successfully run and modified your React Native App. :partying_face:
 
 ### Now what?
 
-![alt text](Screenshot_20240403_132732.jpg)
+![alt text](Screen1.PNG)
 ![alt text](Screen2.PNG)
